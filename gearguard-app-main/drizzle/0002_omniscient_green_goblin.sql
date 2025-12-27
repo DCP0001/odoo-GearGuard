@@ -1,0 +1,1 @@
+ALTER TABLE `equipment_maintenance_log` MODIFY COLUMN `cost` varchar(50);

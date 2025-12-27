@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1766828345993,
+      "tag": "0000_new_wiccan",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1766828551127,
+      "tag": "0001_amazing_maddog",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1766828688894,
+      "tag": "0002_omniscient_green_goblin",
+      "breakpoints": true
+    }
+  ]
+}
